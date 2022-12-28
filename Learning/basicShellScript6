@@ -1,0 +1,11 @@
+#!/bin/bash
+# read input and perform a task
+
+echo "Enter the file name to be renamed"
+read oldfilename
+
+echo "Enter the new file name"
+read newfilename
+
+mv $oldfilename $newfilename
+echo "The file has been renamed as $newfilename"

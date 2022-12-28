@@ -1,0 +1,10 @@
+#!/bin/bash
+# scripts to run commands within
+
+clear
+echo "hello `whoami`"
+echo
+echo "Today is `date`"
+echo
+echo "Number of user login: `who | wc -l `"
+echo

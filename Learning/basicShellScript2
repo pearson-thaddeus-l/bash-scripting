@@ -1,0 +1,11 @@
+#!/bin/bash
+# Defining Tasks
+
+whoami
+echo
+pwd
+echo
+hostname
+echo
+ls -ltr
+echo

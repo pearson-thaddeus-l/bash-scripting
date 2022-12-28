@@ -1,0 +1,10 @@
+#!/bin/bash
+# Defining variables
+
+a=Thaddeus
+b=Pearson
+c='Linux Class'
+
+echo "My first name is $a"
+echo "My surname is $b"
+echo "I am in $c"
